@@ -1,3 +1,3 @@
-# class-recommender
-Duke CS 333 - Final Project
-Abby, Jannis, Zack, Eric, Cassie
+# Duke Class Recommender
+
+CS 333 Final Project by Abby, Jannis, Zack, Eric, and Cassie
